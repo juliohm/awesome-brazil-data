@@ -6,6 +6,8 @@
 
 **awesome-brazil-data** is a curated list of Brazilian datasets for scientists or anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome). All contributions are very welcome.
 
+**awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra cientistas ou qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome). Qualquer contribuição é muito bem vinda.
+
 # Data
 
 - [Brasil](#brasil)
