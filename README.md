@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/brazil-flag.png">
+<img src="images/brazil-flag.png" height=300>
 </p>
 
 # Overview
