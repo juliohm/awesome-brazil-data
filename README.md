@@ -41,6 +41,7 @@
 
 ## Brasil
 
+- [QEdu](http://www.qedu.org.br) &mdash; Dados de educação
 - [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
 
 ## Acre
