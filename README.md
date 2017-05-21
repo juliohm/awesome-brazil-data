@@ -43,6 +43,7 @@
 
 - [QEdu](http://www.qedu.org.br) &mdash; Dados de educação
 - [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
+- [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
 
 ## Acre
 
