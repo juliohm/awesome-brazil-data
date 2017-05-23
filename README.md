@@ -81,6 +81,8 @@
 
 ## Paraíba
 
+- [Dados do Estado da Paraíba](http://dados.pb.gov.br) &mdash; Dados que compõem o portal de transparência do Estado da Paraíba.
+
 ## Paraná
 
 ## Pernambuco
