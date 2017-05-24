@@ -93,6 +93,8 @@
 
 ## Rio de Janeiro
 
+- [Dados Prefeitura do Rio de Janeiro](http://data.rio) &mdash; Dados de escolas, estabelecimentos de saúde, etc.
+
 ## Rio Grande do Norte
 
 ## Rio Grande do Sul
