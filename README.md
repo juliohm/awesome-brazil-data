@@ -1,3 +1,5 @@
+# Awesome Brazil Data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 <p align="center">
 <img src="images/brazil-flag.png" height=300>
 </p>
@@ -8,7 +10,7 @@
 
 <img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome). Qualquer contribuição é muito bem vinda.
 
-# Data
+# Contents
 
 - [Brasil](#brasil)
 - [Acre](#acre)
