@@ -4,7 +4,7 @@
 <img src="images/brazil-flag.png" height=300>
 </p>
 
-# Overview
+# What is it?
 
 <img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome). All contributions are very welcome.
 
