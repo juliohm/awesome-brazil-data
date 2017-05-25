@@ -109,6 +109,8 @@
 
 ## São Paulo
 
+- [Dados Prefeitura de São Paulo](http://dados.prefeitura.sp.gov.br) &mdash; Dados de orgãos e entidades de administração municipal.
+
 ## Sergipe
 
 ## Tocantins
