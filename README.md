@@ -45,6 +45,7 @@
 
 - [QEdu](http://www.qedu.org.br) &mdash; Dados de educação.
 - [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
+- [Datapedia](http://www.datapedia.info) &mdash; Dados organizados por região.
 - [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
 - [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
 - [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
