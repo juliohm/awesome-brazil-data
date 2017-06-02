@@ -59,6 +59,8 @@
 
 ## Alagoas
 
+- [Alagoas em Dados e Informações](http://dados.al.gov.br) &mdash; Dados e informações socioeconômicas de Alagoas.
+
 ## Amapá
 
 ## Amazonas
