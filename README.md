@@ -91,6 +91,8 @@
 
 ## Paraná
 
+- [IPARDES](http://www.ipardes.gov.br) &mdash; Dados do instituto paranaense de desenvolvimento econômico e social.
+
 ## Pernambuco
 
 - [Dados Prefeitura do Recife](http://dados.recife.pe.gov.br) &mdash; Dados de secretarias e orgãos de gestão municipal.
