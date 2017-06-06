@@ -106,6 +106,8 @@
 
 ## Rio Grande do Sul
 
+- [Dados abertos do Rio Grande do Sul](http://dados.rs.gov.br) &mdash; Dados de orgãos púplicos estaduais.
+
 ## Rondônia
 
 ## Roraima
