@@ -69,6 +69,8 @@
 
 ## Ceará
 
+- [SEDUC](http://dados.seduc.ce.gov.br) &mdash; Dados de educação do Ceará.
+
 ## Distrito Federal
 
 ## Espírito Santo
