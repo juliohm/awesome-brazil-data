@@ -70,7 +70,7 @@
 ## Ceará
 
 - [SEDUC](http://dados.seduc.ce.gov.br) &mdash; Dados de educação do Ceará.
-- [Prefeitura de Fortaleza](http://dados.fortaleza.ce.gov.br) &mdash; Dados abertos da Prefeitura de Fortaleza.
+- [Dados Prefeitura de Fortaleza](http://dados.fortaleza.ce.gov.br) &mdash; Dados abertos da Prefeitura de Fortaleza.
 
 ## Distrito Federal
 
