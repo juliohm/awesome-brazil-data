@@ -54,6 +54,9 @@
 - [flora](https://github.com/gustavobio/flora) &mdash; Dados da flora brasileira (R).
 - [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) &mdash; Dados de futebol (shell script).
 - [openfootball/br-brazil](https://github.com/openfootball/br-brazil) &mdash; Dados do campeonato brasileiro.
+- [geodata-br](https://github.com/tbrugz/geodata-br) &mdash; Perímetros dos munícipios brasileiros por estado (GeoJSON).
+- [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) &mdash; Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
+- [br-atlas](https://github.com/carolinabigonha/br-atlas) &mdash; TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 
 ## Acre
 
