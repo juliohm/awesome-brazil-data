@@ -57,6 +57,7 @@
 - [geodata-br](https://github.com/tbrugz/geodata-br) &mdash; Perímetros dos munícipios brasileiros por estado (GeoJSON).
 - [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) &mdash; Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
 - [br-atlas](https://github.com/carolinabigonha/br-atlas) &mdash; TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
+- [E-Commerce](https://www.kaggle.com/olistbr/brazilian-ecommerce) &mdash; Dados de 100k pedidos realizados em marketplaces brasileiros entre 2016 e 2018.
 
 ## Acre
 
