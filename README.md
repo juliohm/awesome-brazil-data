@@ -116,6 +116,7 @@
 ## Rio Grande do Sul
 
 - [Dados abertos do Rio Grande do Sul](http://dados.rs.gov.br) &mdash; Dados de orgãos púplicos estaduais.
+- [Dados Prefeitura de Porto Alegre](http://datapoa.com.br) &mdash; Dados de orgãos e entidades de administração pública municipal.
 
 ## Rondônia
 
