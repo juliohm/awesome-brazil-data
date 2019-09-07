@@ -103,7 +103,7 @@
 ## Pernambuco
 
 - [Dados Prefeitura do Recife](http://dados.recife.pe.gov.br) &mdash; Dados de secretarias e orgãos de gestão municipal.
-- [Dados abertos de Pernambuco](www.dadosabertos.pe.gov.br) &mdash; Dados abertos do governo estadual.
+- [Dados abertos de Pernambuco](http://www.dadosabertos.pe.gov.br) &mdash; Dados abertos do governo estadual.
 
 ## Piauí
 
