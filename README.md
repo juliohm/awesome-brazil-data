@@ -10,6 +10,18 @@
 
 <img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome). Qualquer contribuição é muito bem vinda.
 
+# Contributing
+
+<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) if you have any questions. Give a star to the project and share it with your friends if possible.
+
+<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+
 # Contents
 
 - [Brasil](#brasil)
@@ -131,15 +143,3 @@
 ## Sergipe
 
 ## Tocantins
-
-# Contributing
-
-<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) if you have any questions. Give a star to the project and share it with your friends if possible.
-
-<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Júlio Hoffimann](https://juliohm.github.io) has waived all copyright and related or neighboring rights to this work.
