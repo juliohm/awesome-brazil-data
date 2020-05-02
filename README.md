@@ -10,7 +10,7 @@
 
 <img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome). Qualquer contribuição é muito bem vinda.
 
-# Contributing
+## Contributing
 
 <img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) if you have any questions. Give a star to the project and share it with your friends if possible.
 
