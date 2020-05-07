@@ -70,6 +70,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) &mdash; Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
 - [br-atlas](https://github.com/carolinabigonha/br-atlas) &mdash; TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 - [E-Commerce](https://www.kaggle.com/olistbr/brazilian-ecommerce) &mdash; Dados de 100k pedidos realizados em marketplaces brasileiros entre 2016 e 2018.
+- [covid.saude.gov.br](https://covid.saude.gov.br) &mdash; Dados do COVID-19 por estados do Brasil.
 
 ## Acre
 
