@@ -71,6 +71,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [br-atlas](https://github.com/carolinabigonha/br-atlas) &mdash; TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 - [E-Commerce](https://www.kaggle.com/olistbr/brazilian-ecommerce) &mdash; Dados de 100k pedidos realizados em marketplaces brasileiros entre 2016 e 2018.
 - [covid.saude.gov.br](https://covid.saude.gov.br) &mdash; Dados do COVID-19 por estados do Brasil.
+- [globalweather](https://globalweather.tamu.edu) &mdash; Dados de clima em qualquer parte do mapa do Brasil.
 
 ## Acre
 
