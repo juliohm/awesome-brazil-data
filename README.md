@@ -131,6 +131,7 @@ To the extent possible under law, all contributors have waived all copyright and
 
 - [Dados abertos do Rio Grande do Sul](http://dados.rs.gov.br) &mdash; Dados de orgãos púplicos estaduais.
 - [Dados Prefeitura de Porto Alegre](http://datapoa.com.br) &mdash; Dados de orgãos e entidades de administração pública municipal.
+- [VisualizaDEE](http://visualiza.dee.planejamento.rs.gov.br/) &mdash; Aplicativos de visualização de dados do Departamento de Economia e Estatística do RS.
 
 ## Rondônia
 
