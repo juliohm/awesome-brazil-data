@@ -131,9 +131,9 @@ To the extent possible under law, all contributors have waived all copyright and
 
 - [Dados abertos do Rio Grande do Sul](http://dados.rs.gov.br) &mdash; Dados de orgãos púplicos estaduais.
 - [Dados Prefeitura de Porto Alegre](http://datapoa.com.br) &mdash; Dados de orgãos e entidades de administração pública municipal.
-- [Dados abertos TCE-RS](http://dados.tce.rs.gov.br/) &mdash; Dados abertos do tribunal de contas do estado.
-- [VisualizaDEE](http://visualiza.dee.planejamento.rs.gov.br/) &mdash; Aplicativos de visualização de dados do Departamento de Economia e Estatística do RS.
-- [Receita Dados](http://receitadados.fazenda.rs.gov.br/) &mdash; Dados produzidos pela Receita Estadual do RS
+- [Dados abertos TCE-RS](http://dados.tce.rs.gov.br) &mdash; Dados abertos do tribunal de contas do estado.
+- [VisualizaDEE](http://visualiza.dee.planejamento.rs.gov.br) &mdash; Aplicativos de visualização de dados do Departamento de Economia e Estatística do RS.
+- [Receita Dados](http://receitadados.fazenda.rs.gov.br) &mdash; Dados produzidos pela Receita Estadual do RS
 - [SSP-RS](https://ssp.rs.gov.br/estatisticas) &mdash; Dados divulgados pela Secretaria de Segurança Pública do RS
 - [DETRAN-RS](https://www.detran.rs.gov.br/estatistica) &mdash; Estatísticas divulgadas pelo Departamento de Trânsito do RS
 
