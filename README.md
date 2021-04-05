@@ -72,7 +72,8 @@ To the extent possible under law, all contributors have waived all copyright and
 - [E-Commerce](https://www.kaggle.com/olistbr/brazilian-ecommerce) &mdash; Dados de 100k pedidos realizados em marketplaces brasileiros entre 2016 e 2018.
 - [covid.saude.gov.br](https://covid.saude.gov.br) &mdash; Dados do COVID-19 por estados do Brasil.
 - [globalweather](https://globalweather.tamu.edu) &mdash; Dados de clima em qualquer parte do mapa do Brasil.
-- [Mapbiomas](https://mapbiomas.org) &mdash; Dados de biomas no Brasil.
+- [Mapbiomas](https://mapbiomas.org) &mdash; Dados de biomas no Brasil produzidos pelo Mapbiomas.
+- [Terrabrasilis](http://terrabrasilis.dpi.inpe.br/en/home-page) &mdash; Dados de monitoramento ambiental produzidos pelo INPE.
 
 ## Acre
 
