@@ -75,6 +75,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Mapbiomas](https://mapbiomas.org) &mdash; Dados de biomas no Brasil produzidos pelo Mapbiomas.
 - [Terrabrasilis](http://terrabrasilis.dpi.inpe.br/en/home-page) &mdash; Dados de monitoramento ambiental produzidos pelo INPE.
 - [DNIT](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/dnit-geo) &mdash; Dados de estradas oficiais do Brasil produzidos pelo DNIT.
+- [INMET](https://portal.inmet.gov.br/manual/manual-de-uso-da-api-esta%C3%A7%C3%B5es) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
 
 ## Acre
 
