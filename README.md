@@ -76,6 +76,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Terrabrasilis](http://terrabrasilis.dpi.inpe.br/en/home-page) &mdash; Dados de monitoramento ambiental produzidos pelo INPE.
 - [DNIT](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/dnit-geo) &mdash; Dados de estradas oficiais do Brasil produzidos pelo DNIT.
 - [INMET](https://github.com/JuliaClimate/INMET.jl) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
+- [GADM](https://github.com/JuliaGeo/GADM.jl) &mdash; Coleção de shapefiles de estados, cidades, municípios (Julia)
 
 ## Acre
 
