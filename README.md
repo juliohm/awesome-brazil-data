@@ -77,6 +77,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DNIT](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/dnit-geo) &mdash; Dados de estradas oficiais do Brasil produzidos pelo DNIT.
 - [INMET](https://github.com/JuliaClimate/INMET.jl) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
 - [GADM](https://github.com/JuliaGeo/GADM.jl) &mdash; Coleção de shapefiles de estados, cidades, municípios (Julia)
+- [Sotaque Brasileiro](https://sotaque-brasileiro.github.io/) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
 
 ## Acre
 
