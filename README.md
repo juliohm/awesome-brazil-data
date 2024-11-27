@@ -75,8 +75,9 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Mapbiomas](https://mapbiomas.org) &mdash; Dados de biomas no Brasil produzidos pelo Mapbiomas.
 - [Terrabrasilis](http://terrabrasilis.dpi.inpe.br/en/home-page) &mdash; Dados de monitoramento ambiental produzidos pelo INPE.
 - [DNIT](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/dnit-geo) &mdash; Dados de estradas oficiais do Brasil produzidos pelo DNIT.
-- [INMET](https://github.com/JuliaClimate/INMET.jl) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
-- [GADM](https://github.com/JuliaGeo/GADM.jl) &mdash; Coleção de shapefiles de estados, cidades, municípios (Julia)
+- [INMET](https://github.com/JuliaClimate/GeoArtifacts.jl) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
+- [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de Shapefile de estados, cidades, municípios (Julia)
+- [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
 - [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
 
 ## Acre
