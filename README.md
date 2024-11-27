@@ -77,6 +77,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DNIT](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/dnit-geo) &mdash; Dados de estradas oficiais do Brasil produzidos pelo DNIT.
 - [INMET](https://github.com/JuliaClimate/GeoArtifacts.jl) &mdash; Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)
 - [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de Shapefile de estados, cidades, municípios (Julia)
+- [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoPackage de estados, cidades, municípios (Julia)
 - [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
 - [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
 
