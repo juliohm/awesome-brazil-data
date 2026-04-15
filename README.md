@@ -62,6 +62,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
 - [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
 - [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
+- [CNPJ Go!](https://cnpjgo.com.br) &mdash; Dados cadastrais de 60M+ empresas brasileiras da Receita Federal (CNPJ, CNAE, situação cadastral, QSA).
 - [places.br](https://github.com/paulofreitas/places.br) &mdash; Dados geográficos.
 - [flora](https://github.com/gustavobio/flora) &mdash; Dados da flora brasileira (R).
 - [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) &mdash; Dados de futebol (shell script).
