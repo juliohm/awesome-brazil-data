@@ -80,6 +80,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoPackage de estados, cidades, municípios (Julia)
 - [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
 - [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
+- [Crime Brasil](https://crimebrasil.com.br) &mdash; Dados de ocorrências criminais geocodificadas por bairro (RS), município (MG/RJ) e nacionais (PRF/DATASUS). API REST + CSV/Parquet, CC BY 4.0.
 
 ## Acre
 
@@ -112,6 +113,8 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ## Minas Gerais
 
+
+- [Crime Brasil](https://crimebrasil.com.br) &mdash; Ocorrências de crimes violentos em MG (SEJUSP) a nível de município. API pública, CC BY 4.0.
 ## Pará
 
 ## Paraíba
@@ -132,6 +135,7 @@ To the extent possible under law, all contributors have waived all copyright and
 ## Rio de Janeiro
 
 - [Dados Prefeitura do Rio de Janeiro](http://data.rio) &mdash; Dados de escolas, estabelecimentos de saúde, etc.
+- [Crime Brasil](https://crimebrasil.com.br) &mdash; Ocorrências criminais do RJ (ISP/CISP) a nível de município, com API pública. CC BY 4.0.
 
 ## Rio Grande do Norte
 
@@ -144,6 +148,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Receita Dados](http://receitadados.fazenda.rs.gov.br) &mdash; Dados produzidos pela Receita Estadual do RS
 - [SSP-RS](https://ssp.rs.gov.br/estatisticas) &mdash; Dados divulgados pela Secretaria de Segurança Pública do RS
 - [DETRAN-RS](https://www.detran.rs.gov.br/estatistica) &mdash; Estatísticas divulgadas pelo Departamento de Trânsito do RS
+- [Crime Brasil](https://crimebrasil.com.br) &mdash; 2,99 milhões de ocorrências criminais do RS (2022-2025), 99,99% geocodificadas por bairro, 497 municípios, 79 mil bairros. API pública, CC BY 4.0.
 
 ## Rondônia
 
