@@ -81,6 +81,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) &mdash; Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
 - [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
 - [Crime Brasil](https://crimebrasil.com.br) &mdash; Dados de ocorrências criminais geocodificadas por bairro (RS), município (MG/RJ) e nacionais (PRF/DATASUS). API REST + CSV/Parquet, CC BY 4.0.
+- [ANP-TERRESTRE](https://reate.cprm.gov.br/anp/TERRESTRE) &mdash; Dados públicos de sísmica terrestre disponibilizados de forma gratuita pela ANP.
 
 ## Acre
 
