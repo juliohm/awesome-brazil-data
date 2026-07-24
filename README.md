@@ -83,6 +83,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Crime Brasil](https://crimebrasil.com.br) &mdash; Dados de ocorrências criminais geocodificadas por bairro (RS), município (MG/RJ) e nacionais (PRF/DATASUS). API REST + CSV/Parquet, CC BY 4.0.
 - [ANP-TERRESTRE](https://reate.cprm.gov.br/anp/TERRESTRE) &mdash; Dados públicos de sísmica terrestre disponibilizados de forma gratuita pela ANP.
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
+- [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Dataset e logos oficiais de instituições financeiras do Brasil (bancos, fintechs, IPs, cooperativas), derivados só de fontes oficiais (listas de participantes do STR e do Pix do Banco Central e diretório do Open Finance Brasil), com proveniência por logo e atualização semanal.
 
 ## Acre
 
