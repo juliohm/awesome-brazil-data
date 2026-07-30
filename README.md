@@ -82,6 +82,8 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) &mdash; Base de dados colaborativa para estudo de regionalismos através da voz.
 - [Crime Brasil](https://crimebrasil.com.br) &mdash; Dados de ocorrências criminais geocodificadas por bairro (RS), município (MG/RJ) e nacionais (PRF/DATASUS). API REST + CSV/Parquet, CC BY 4.0.
 - [ANP-TERRESTRE](https://reate.cprm.gov.br/anp/TERRESTRE) &mdash; Dados públicos de sísmica terrestre disponibilizados de forma gratuita pela ANP.
+- [OpendataSGB](https://opendata.sgb.gov.br/datasets) &mdash; Dados públicos do serviço geológico do Brasil.
+- [GeoSGB](https://geosgb.sgb.gov.br) &mdash; Dados públicos do serviço geológico do Brasil (site alternativo).
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
 
