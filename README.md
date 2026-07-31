@@ -141,6 +141,8 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ## Rio Grande do Norte
 
+- [Sistema Estadual de Informações Ambientais](https://seia.idema.rn.gov.br) &mdash; Dados ambientais do estado.
+
 ## Rio Grande do Sul
 
 - [Dados abertos do Rio Grande do Sul](http://dados.rs.gov.br) &mdash; Dados de orgãos púplicos estaduais.
