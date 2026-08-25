@@ -86,6 +86,8 @@ To the extent possible under law, all contributors have waived all copyright and
 - [GeoSGB](https://geosgb.sgb.gov.br) &mdash; Dados públicos do serviço geológico do Brasil (site alternativo).
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
+- [Databook](https://databook.dataint.net/pt/paises/brasil/) &mdash; Dados públicos consolidados por país em 15 secções (população, economia, saúde, educação, infraestrutura, ambiente), com 67 fontes citadas — Banco Mundial, OMS, UNESCO, ONU DESA, CIA World Factbook. Cada indicador traz fonte e ano.
+- [Logibook](https://logibook.dataint.net/pt/paises/brasil) &mdash; Dados de logística e comércio: 39 portos, 193 aeroportos, 391 códigos UN/LOCODE e 24 zonas de comércio, a partir de NGA World Port Index, OurAirports, UNCTAD e Banco Mundial.
 
 ## Acre
 
