@@ -62,8 +62,8 @@ To the extent possible under law, all contributors have waived all copyright and
 - [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
 - [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
 - [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
-- [Dados Abertos Brasil](https://dados.gov.br/) &mdash; Portal dos dados abertos do Brasil, com conjuntos de dados governamentais.
-- [Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html#staticfile) &mdash; Dados abertos da Câmara dos Deputados em API e arquivos estáticos.
+- [Dados Abertos Brasil](https://dados.gov.br) &mdash; Portal dos dados abertos do Brasil, com conjuntos de dados governamentais.
+- [Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html#staticfile) &mdash; Dados abertos da câmara dos deputados.
 - [places.br](https://github.com/paulofreitas/places.br) &mdash; Dados geográficos.
 - [flora](https://github.com/gustavobio/flora) &mdash; Dados da flora brasileira (R).
 - [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) &mdash; Dados de futebol (shell script).
