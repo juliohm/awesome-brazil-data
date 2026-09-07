@@ -88,7 +88,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [GeoSGB](https://geosgb.sgb.gov.br) &mdash; Dados públicos do serviço geológico do Brasil (site alternativo).
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
-- [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros (NF-e, NFC-e, CT-e, MDF-e, BP-e, NFS-e, NF3e, NFCom e outros) espelhadas do portal SEFAZ, ADN gov.br e SVRS. Feed Atom e manifest JSON atualizados diariamente.
+- [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
 
 ## Acre
 
