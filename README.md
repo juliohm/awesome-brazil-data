@@ -59,7 +59,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
 - [IBGE](http://www.ibge.gov.br) &mdash; Dados do Instituto brasileiro de geografia e estatística.
 - [Datapedia](http://www.datapedia.info) &mdash; Dados organizados por região.
-- [Instituto Nacional de Pesquisas Espaciais](http://sinda.crn2.inpe.br/PCD/SITE/novo/site) &mdash; Dados de clima.
+- [INPE](https://data.inpe.br) &mdash; Dados de clima.
 - [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
 - [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
 - [Dados Abertos Brasil](https://dados.gov.br) &mdash; Portal dos dados abertos do Brasil, com conjuntos de dados governamentais.
