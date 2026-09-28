@@ -89,7 +89,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
 - [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
-- [Reclamação por Cliente](https://zenodo.org/records/22940648/files/dnacx-reclamacao-por-cliente.csv?download=1) &mdash; Reclamações do Consumidor.gov.br divididas pelo número de clientes que o regulador de cada setor publica (Banco Central, Anatel, ANAC, ANEEL e ANS), em 193 empresas, de julho de 2025 a junho de 2026. CSV e JSON, CC BY 4.0, DOI 10.5281/zenodo.22940647.
+- [Reclamação por Cliente](https://doi.org/10.5281/zenodo.22940647) &mdash; Reclamações finalizadas no Consumidor.gov.br divididas pelo número de clientes que o regulador de cada setor publica (Banco Central, Anatel, ANAC, ANEEL e ANS), em 183 empresas, de julho de 2025 a junho de 2026. Análise derivada, com o código que refaz a base. CSV e JSON, ODbL 1.0.
 
 ## Acre
 
