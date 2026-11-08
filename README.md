@@ -89,6 +89,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
 - [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
+- [cTribNac (NFS-e Nacional)](https://github.com/transformax2205-droid/codigo-tributacao-nacional-nfse) &mdash; Tabela dos 338 códigos de tributação nacional (cTribNac) da NFS-e Nacional, derivada da LC 116/2003, em JSON e CSV, com busca por código ou descrição (CC BY 4.0).
 
 ## Acre
 
