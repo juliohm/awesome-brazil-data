@@ -59,6 +59,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [TIC Pesquisas](http://cetic.br/pesquisas) &mdash; Pesquisas sobre educação, saúde, etc.
 - [IBGE](http://www.ibge.gov.br) &mdash; Dados do Instituto brasileiro de geografia e estatística.
 - [Datapedia](http://www.datapedia.info) &mdash; Dados organizados por região.
+- [dataBR](https://www.data-br.com) &mdash; Dados municipais dos 5.570 municípios: população, IDH, PIB, educação, saúde, saneamento, emprego e eleições, com CSV e rankings.
 - [INPE](https://data.inpe.br) &mdash; Dados de clima.
 - [Infraero](https://github.com/ehrhardt/Infraero) &mdash; Dados da Infraero (Python).
 - [congressbr](https://github.com/RobertMyles/congressbr) &mdash; Dados do senado federal e câmara dos deputados (R).
